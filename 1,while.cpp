@@ -1,4 +1,4 @@
-/* lam phep toan cong ma khong thoat man hinh */
+/**/
 #include<stdio.h>
 #include<stdlib.h>
 int main ()
